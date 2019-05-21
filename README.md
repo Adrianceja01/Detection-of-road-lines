@@ -1,2 +1,1 @@
-# tarea2
-deteccion de lineas 
+# Deteccion de las lineas de carretera en un video
